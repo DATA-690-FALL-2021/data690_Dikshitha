@@ -1,0 +1,104 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,750636340000.0,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2016,794977154799.654,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2017,842771714903.792,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2018,774026908423.875,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2019,834226020000.0,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2020,1226164220000.0,CM.MKT.TRAD.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2015,1096074730000.0,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+7,2016,1153366674108.8,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+8,2017,1280149390000.0,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+9,2018,1373654878943.51,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+10,2019,1432565050000.0,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+11,2020,1010509350000.0,CM.MKT.TRAD.CD,CAN,Canada,North America,High income,Not classified
+12,2015,39326016590000.0,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2016,18295058830306.6,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2017,17223330026369.8,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2018,13070642237217.1,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2019,18247704170000.0,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2020,31580655980000.0,CM.MKT.TRAD.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2015,802189246647.972,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+19,2016,808345072456.108,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+20,2017,1204808201528.86,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+21,2018,1295711222296.8,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+22,2019,1285594464766.56,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+23,2020,1945317139001.35,CM.MKT.TRAD.CD,IND,India,South Asia,Lower middle income,IBRD
+24,2015,5571527250000.0,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+25,2016,5230238447398.79,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+26,2017,5778429302687.51,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+27,2018,6304085320533.8,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+28,2019,5097597060000.0,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+29,2020,6337219210000.0,CM.MKT.TRAD.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+30,2015,41398501970000.0,CM.MKT.TRAD.CD,USA,United States,North America,High income,Not classified
+31,2016,42071330000000.0,CM.MKT.TRAD.CD,USA,United States,North America,High income,Not classified
+32,2017,39785881380000.0,CM.MKT.TRAD.CD,USA,United States,North America,High income,Not classified
+33,2018,33027245670000.0,CM.MKT.TRAD.CD,USA,United States,North America,High income,Not classified
+34,2019,23192148690000.0,CM.MKT.TRAD.CD,USA,United States,North America,High income,Not classified
+35,2015,55.5330088462,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+36,2016,65.7632569644,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+37,2017,63.4049820833,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+38,2018,54.0189182151,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+39,2019,59.7340486492,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+40,2020,92.1303905433,CM.MKT.TRAD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+41,2015,70.4187935577,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+42,2016,75.4823719268,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+43,2017,77.619357104,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+44,2018,79.7776937629,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+45,2019,82.2568022289,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+46,2020,61.4886482298,CM.MKT.TRAD.GD.ZS,CAN,Canada,North America,High income,Not classified
+47,2015,355.5198470417,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+48,2016,162.8648486527,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+49,2017,139.9086700325,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+50,2018,94.0684697065,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2019,127.7856027845,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2020,214.5027076025,CM.MKT.TRAD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2015,38.1343360796,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+54,2016,35.225108237,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+55,2017,45.4392040159,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+56,2018,47.96955204,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+57,2019,44.7863657898,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+58,2020,74.1642853238,CM.MKT.TRAD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+59,2015,126.9292218261,CM.MKT.TRAD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+60,2016,106.2508465572,CM.MKT.TRAD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+61,2017,118.7300244326,CM.MKT.TRAD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+62,2018,127.2317126383,CM.MKT.TRAD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+63,2019,100.6461008045,CM.MKT.TRAD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+64,2015,226.9866197971,CM.MKT.TRAD.GD.ZS,USA,United States,North America,High income,Not classified
+65,2016,224.4393711847,CM.MKT.TRAD.GD.ZS,USA,United States,North America,High income,Not classified
+66,2017,203.5814550455,CM.MKT.TRAD.GD.ZS,USA,United States,North America,High income,Not classified
+67,2018,160.2341766993,CM.MKT.TRAD.GD.ZS,USA,United States,North America,High income,Not classified
+68,2019,108.2065298986,CM.MKT.TRAD.GD.ZS,USA,United States,North America,High income,Not classified
+69,2015,63.2336623007,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+70,2016,59.7842837827,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+71,2017,53.6442892677,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+72,2018,61.294483919,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+73,2019,56.0787,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+74,2020,71.265572973,CM.MKT.TRNR,AUS,Australia,East Asia & Pacific,High income,Not classified
+75,2015,68.8006684828,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+76,2016,57.5529926589,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+77,2017,54.0834703529,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+78,2018,70.8835831569,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+79,2019,59.4648,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+80,2020,38.255,CM.MKT.TRNR,CAN,Canada,North America,High income,Not classified
+81,2015,480.2872960246,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+82,2016,249.9072891447,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+83,2017,197.7132556194,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+84,2018,206.6543987109,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+85,2019,214.2880016932,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+86,2020,258.5512703888,CM.MKT.TRNR,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+87,2015,45.9662724642,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+88,2016,46.289084138,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+89,2017,47.136677681,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+90,2018,56.7719077944,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+91,2019,56.2149944736,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+92,2020,74.9506041888,CM.MKT.TRNR,IND,India,South Asia,Lower middle income,IBRD
+93,2015,113.8226620995,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+94,2016,105.444195993,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+95,2017,92.8429265203,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+96,2018,119.0166158754,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+97,2019,82.3379,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+98,2020,94.3288495238,CM.MKT.TRNR,JPN,Japan,East Asia & Pacific,High income,Not classified
+99,2015,165.1478470986,CM.MKT.TRNR,USA,United States,North America,High income,Not classified
+100,2016,94.7188501036,CM.MKT.TRNR,USA,United States,North America,High income,Not classified
+101,2017,116.078469068,CM.MKT.TRNR,USA,United States,North America,High income,Not classified
+102,2018,108.512636257,CM.MKT.TRNR,USA,United States,North America,High income,Not classified
