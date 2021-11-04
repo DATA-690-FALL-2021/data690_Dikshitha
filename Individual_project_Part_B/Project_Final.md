@@ -31,53 +31,42 @@
 - The shares are collectively known as "stock". A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares.
 
 
-### Distribution of Stocks total value (% of GDP) for the above mentioned 7 countries in the year 2000.
+### Bar graph of Stocks Traded- Total Value(% of GDP) in the year 2020
 
-![Graph1.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph1.png)
+![Graph4.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot.png)
 
-### Distribution of Stocks turn over ratio of Domestic shares for the above mentioned 7 countries in the year 2000.
+### Bar graph for the year 2020
+![Graph6.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(2).png)
 
-![Graph2.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph2.png)
 
-### Distribution of Stocks total value (Current US Dollars) for the above mentioned 7 countries in the year 2000.
+### Pie graph for Stocks Traded Total Value(Current US Dollars) in the year 2020
 
-![Graph3.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph3.png)
+![Graph7.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(3).png)
 
-### Stocks Traded- Total Value(% of GDP) in the year 2000
+### Pie graph for Stocks Traded Turnover ratio of domestic shares in the year 2015
 
-![Graph4.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph4.png)
+![Graph8.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(4).png)
 
-### Stocks Traded Turnover ratio of domestic shares in the year 2000
+### Pie graph for Stocks Traded- Total Value(% of GDP) in the year 2015
 
-![Graph5.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph5.png)
+![Graph9.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(5).png)
 
-### Stocks Traded Total Value(Current US Dollars) in the year 2000
 
-![Graph6.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph6.png)
 
-### Stocks Traded Total Value(% of in the year 2000
+### Bar Graph for Indian Stocks with total(% of GDP) Stocks
 
-![Graph7.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph7.png)
+![Graph10.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(6).png)
 
-### Pie Representation of Stocks Traded Turnover ratio of domestic shares in the year 2000
+### Line Graph for Stocks Traded Total Value(Current US Dollars) in the year 2015
 
-![Graph8.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph8.png)
+![Graph11.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(7).png)
 
-### Chloropleth representation of Stocks Traded Total value(% of GDP) in the year 2000
+### Scatter plot for Stocks Traded Total Value(Current US Dollars) in the year 2015
 
-![Graph9.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph9.png)
+![Graph12.png](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/newplot%20(8).png)
 
-### Graph for the total value(% of GDP) stocks traded country wise across the years 2000 to 2020
 
-![Graph10.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph10.png)
 
-### Graph for the turnover ratio of domestic shares traded country wise across the years 2000 to 2020
-
-![Graph11.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph11.png)
-
-### Graph for the total value in US Dollars for stocks traded country wise across the years 2000 to 2020
-
-![Graph12.png](https://github.com/dkavali/data690_Dikshitha/blob/main/Individual_project_Part_B/Graphs/Graph12.png)
 
 
 ### Conclusion :
